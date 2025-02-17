@@ -15,11 +15,11 @@ Exploratory Analysis: We performed several queries to answer the following quest
 
 The “nosql-challenge” folder contains the following:
 
-•	“Resources” subfolder: Holds the “establishments.json” file dataset . 
-
-•	“NoSQL_analysis starter”: Holds my code for part 3 of the challenge.
+•	“Resources” subfolder: Holds the “establishments.json” file dataset. 
 
 •	“NoSQL_setup_starter”: Holds my code for parts 1 and 2 of the challenge.
+
+•	“NoSQL_analysis starter”: Holds my code for part 3 of the challenge.
 
 Please note, I used in-class activities/notes and the following resources to complete my assignments:
 
