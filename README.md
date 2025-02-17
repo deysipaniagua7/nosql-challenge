@@ -1,5 +1,5 @@
 # nosql-challenge
-This is the repository that holds my Module 12 nosql-Challenge.
+This is the repository that holds my Module 12 NOSQL-Challenge.
 
 Module Overview: The challenge was divided into 3 parts: Database and Jupyter Notebook Set Up, Update the Database, and Exploratory Analysis.
 
@@ -21,7 +21,7 @@ The “nosql-challenge” folder contains the following:
 
 •	“NoSQL_analysis starter”: Holds my code for part 3 of the challenge.
 
-Please note, I used in-class activities/notes and the following resources to complete my assignments:
+Please note, I used in-class activities/notes and the following resources to complete my assignment:
 
 https://stackoverflow.com/questions/75319317/how-do-i-delete-many-filtering-by-two-conditions
 
